@@ -1,4 +1,3 @@
---[[
 
 Name: DSPlayers (DataStore Players)
 Summary: Loading players with datastore handling. This API interacts with ProfileService.
@@ -9,6 +8,3 @@ Use the Initialize folder to store any initialization components related to the 
 
 This package adds support to easier data-saving using the ProfileService API. The latest version of ProfileService can be found here:
 https://github.com/MadStudioRoblox/ProfileService/
-
-
-]]
