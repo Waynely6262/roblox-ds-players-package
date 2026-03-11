@@ -7,7 +7,7 @@ local Players = game:GetService("Players")
 local ProfileService = require(script.ProfileService)
 local onPlayer = require(script.Player)
 local Profiles = require(script.Profiles)
-local PackageConfig = require(game.ReplicatedStorage.Modules.PackageConfig.built_in_DSPlayers)
+local PackageConfig = require(game.ReplicatedStorage.Modules.PackageConfig.DSPlayers)
 local ProfileStore = ProfileService.GetProfileStore(IsStudio and "Studio" or "Production", Template)
 
 local Template = PackageConfig.Template
